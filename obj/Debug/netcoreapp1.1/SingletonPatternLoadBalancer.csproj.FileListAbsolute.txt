@@ -1,0 +1,8 @@
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\bin\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.deps.json
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\bin\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.runtimeconfig.json
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\bin\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.runtimeconfig.dev.json
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\bin\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.dll
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\bin\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.pdb
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\obj\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.AssemblyInfo.cs
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\obj\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.dll
+C:\david\SingletonPatternLoadBalancer\SingletonPatternLoadBalancer\obj\Debug\netcoreapp1.1\SingletonPatternLoadBalancer.pdb
